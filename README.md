@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou a Bárbara, desenvolvedor(a) em formação.  
+Sou a Bárbara, desenvolvedora em formação.  
 - 🌱 Estudando: **Análise e Desenvolvimento de Sistemas, Python, HTML e SQL**  
 - 🎯 Objetivo: primeira oportunidade como dev júnior (estágio/CLT/freela)  
 - 💬 Interesses: Blockchain, UI/UX, cybersegurança e QA 
