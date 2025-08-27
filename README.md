@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello, World!
 
 Sou a Bárbara, estudante em transição para tecnologia. 
 
@@ -17,10 +17,6 @@ Sou a Bárbara, estudante em transição para tecnologia.
 - Evoluir na área de tecnologia  
 - Conquistar minha primeira oportunidade em QA, UX/UI, Data Analytics ou Cybersecurity  
 
-
-## 📂 Projetos e Estudos
-- [Estudos de SQL](#) *(consultas e exercícios)*  
-- [Anotações de UX/UI](#) *(materiais e cases)*
   
 - 📫 Fale comigo: [LinkedIn](linkedin.com/in/barbara-regina-silva) • [Email](
 barbara_regina66@outlook.com)
